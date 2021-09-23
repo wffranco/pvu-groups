@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.17f0d5f3a8d156f70ada88b09d48546f.js"
+  "/pvu-groups/precache-manifest.45f4a9ccba7ac4930e329313a9ab58a9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pvu-groups"});
